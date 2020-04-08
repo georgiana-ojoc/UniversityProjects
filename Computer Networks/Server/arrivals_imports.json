@@ -1,0 +1,378 @@
+[
+	{
+		"number": "1662",
+		"arrival_station": "Barnova",
+		"last_station": 0,
+		"line": "1A",
+		"arrival_time": "14:39:00",
+		"delay": 0
+	},
+	{
+		"number": "1662",
+		"arrival_station": "Vaslui",
+		"last_station": 0,
+		"line": "1A",
+		"arrival_time": "15:23:00",
+		"delay": 0
+	},
+	{
+		"number": "1662",
+		"arrival_station": "Crasna",
+		"last_station": 0,
+		"line": "1A",
+		"arrival_time": "15:38:00",
+		"delay": 0
+	},
+	{
+		"number": "1662",
+		"arrival_station": "Barlad",
+		"last_station": 0,
+		"line": "1A",
+		"arrival_time": "16:15:00",
+		"delay": 0
+	},
+	{
+		"number": "1662",
+		"arrival_station": "Tecuci",
+		"last_station": 0,
+		"line": "1A",
+		"arrival_time": "16:52:00",
+		"delay": 0
+	},
+	{
+		"number": "1662",
+		"arrival_station": "Focsani",
+		"last_station": 0,
+		"line": "1A",
+		"arrival_time": "17:53:00",
+		"delay": 0
+	},
+	{
+		"number": "1662",
+		"arrival_station": "Buzau",
+		"last_station": 0,
+		"line": "1A",
+		"arrival_time": "18:58:00",
+		"delay": 0
+	},
+	{
+		"number": "1662",
+		"arrival_station": "Ploiesti",
+		"last_station": 0,
+		"line": "1A",
+		"arrival_time": "20:07:00",
+		"delay": 0
+	},
+	{
+		"number": "1662",
+		"arrival_station": "Iasi",
+		"last_station": 1,
+		"line": "1A",
+		"arrival_time": "21:00:00",
+		"delay": 0
+	},
+	{
+		"number": "1862",
+		"arrival_station": "Barnova",
+		"last_station": 0,
+		"line": "2A",
+		"arrival_time": "23:01:00",
+		"delay": 0
+	},
+	{
+		"number": "1862",
+		"arrival_station": "Vaslui",
+		"last_station": 0,
+		"line": "2A",
+		"arrival_time": "23:45:00",
+		"delay": 0
+	},
+	{
+		"number": "1862",
+		"arrival_station": "Crasna",
+		"last_station": 0,
+		"line": "2A",
+		"arrival_time": "00:00:00",
+		"delay": 0
+	},
+	{
+		"number": "1862",
+		"arrival_station": "Barlad",
+		"last_station": 0,
+		"line": "2A",
+		"arrival_time": "00:37:00",
+		"delay": 0
+	},
+	{
+		"number": "1862",
+		"arrival_station": "Tecuci",
+		"last_station": 0,
+		"line": "2A",
+		"arrival_time": "01:28:00",
+		"delay": 0
+	},
+	{
+		"number": "1862",
+		"arrival_station": "Focsani",
+		"last_station": 0,
+		"line": "2A",
+		"arrival_time": "02:13:00",
+		"delay": 0
+	},
+	{
+		"number": "1862",
+		"arrival_station": "Buzau",
+		"last_station": 0,
+		"line": "2A",
+		"arrival_time": "03:43:00",
+		"delay": 0
+	},
+	{
+		"number": "1862",
+		"arrival_station": "Fetesti",
+		"last_station": 0,
+		"line": "2A",
+		"arrival_time": "05:44:00",
+		"delay": 0
+	},
+	{
+		"number": "1862",
+		"arrival_station": "Constanta",
+		"last_station": 1,
+		"line": "2A",
+		"arrival_time": "06:47:00",
+		"delay": 0
+	},
+	{
+		"number": "1891",
+		"arrival_station": "Pitesti",
+		"last_station": 0,
+		"line": "1B",
+		"arrival_time": "08:06:00",
+		"delay": 0
+	},
+	{
+		"number": "1891",
+		"arrival_station": "Slatina",
+		"last_station": 0,
+		"line": "1B",
+		"arrival_time": "09:41:00",
+		"delay": 0
+	},
+	{
+		"number": "1891",
+		"arrival_station": "Craiova",
+		"last_station": 1,
+		"line": "1B",
+		"arrival_time": "10:45:00",
+		"delay": 0
+	},
+	{
+		"number": "1745",
+		"arrival_station": "Ploiesti",
+		"last_station": 0,
+		"line": "1A",
+		"arrival_time": "06:43:00",
+		"delay": 0
+	},
+	{
+		"number": "1745",
+		"arrival_station": "Sinaia",
+		"last_station": 0,
+		"line": "1A",
+		"arrival_time": "07:40:00",
+		"delay": 0
+	},
+	{
+		"number": "1745",
+		"arrival_station": "Predeal",
+		"last_station": 0,
+		"line": "1A",
+		"arrival_time": "08:07:00",
+		"delay": 0
+	},
+	{
+		"number": "1745",
+		"arrival_station": "Brasov",
+		"last_station": 0,
+		"line": "1A",
+		"arrival_time": "08:55:00",
+		"delay": 0
+	},
+	{
+		"number": "1745",
+		"arrival_station": "Sighisoara",
+		"last_station": 0,
+		"line": "1A",
+		"arrival_time": "11:48:00",
+		"delay": 0
+	},
+	{
+		"number": "1745",
+		"arrival_station": "Sighisoara",
+		"last_station": 0,
+		"line": "1A",
+		"arrival_time": "11:48:00",
+		"delay": 0
+	},
+	{
+		"number": "1745",
+		"arrival_station": "Cluj-Napoca",
+		"last_station": 0,
+		"line": "1A",
+		"arrival_time": "15:43:00",
+		"delay": 0
+	},
+	{
+		"number": "1745",
+		"arrival_station": "Baia-Mare",
+		"last_station": 1,
+		"line": "1A",
+		"arrival_time": "20:03:00",
+		"delay": 0
+	},
+	{
+		"number": "1838",
+		"arrival_station": "Deva",
+		"last_station": 0,
+		"line": "2A",
+		"arrival_time": "21:23:00",
+		"delay": 0
+	},
+	{
+		"number": "1838",
+		"arrival_station": "Alba-Iulia",
+		"last_station": 0,
+		"line": "2A",
+		"arrival_time": "22:55:00",
+		"delay": 0
+	},
+	{
+		"number": "1838",
+		"arrival_station": "Cluj-Napoca",
+		"last_station": 0,
+		"line": "2A",
+		"arrival_time": "01:36:00",
+		"delay": 0
+	},
+	{
+		"number": "1838",
+		"arrival_station": "Vatra-Dornei",
+		"last_station": 0,
+		"line": "2A",
+		"arrival_time": "05:39:00",
+		"delay": 0
+	},
+	{
+		"number": "1838",
+		"arrival_station": "Campulung-Moldovenesc",
+		"last_station": 0,
+		"line": "2A",
+		"arrival_time": "06:38:00",
+		"delay": 0
+	},
+	{
+		"number": "1838",
+		"arrival_station": "Campulung-Moldovenesc",
+		"last_station": 0,
+		"line": "2A",
+		"arrival_time": "06:38:00",
+		"delay": 0
+	},
+	{
+		"number": "1838",
+		"arrival_station": "Gura-Humorului",
+		"last_station": 0,
+		"line": "2A",
+		"arrival_time": "07:24:00",
+		"delay": 0
+	},
+	{
+		"number": "1838",
+		"arrival_station": "Suceava",
+		"last_station": 0,
+		"line": "2A",
+		"arrival_time": "08:26:00",
+		"delay": 0
+	},
+	{
+		"number": "1838",
+		"arrival_station": "Iasi",
+		"last_station": 1,
+		"line": "2A",
+		"arrival_time": "10:17:00",
+		"delay": 0
+	},
+	{
+		"number": "1665",
+		"arrival_station": "Ploiesti",
+		"last_station": 0,
+		"line": "2B",
+		"arrival_time": "16:44:00",
+		"delay": 0
+	},
+	{
+		"number": "1665",
+		"arrival_station": "Buzau",
+		"last_station": 0,
+		"line": "2B",
+		"arrival_time": "17:53:00",
+		"delay": 0
+	},
+	{
+		"number": "1665",
+		"arrival_station": "Focsani",
+		"last_station": 0,
+		"line": "2B",
+		"arrival_time": "19:00:00",
+		"delay": 0
+	},
+	{
+		"number": "1665",
+		"arrival_station": "Tecuci",
+		"last_station": 0,
+		"line": "2B",
+		"arrival_time": "19:54:00",
+		"delay": 0
+	},
+	{
+		"number": "1665",
+		"arrival_station": "Barlad",
+		"last_station": 0,
+		"line": "2B",
+		"arrival_time": "20:32:00",
+		"delay": 0
+	},
+	{
+		"number": "1665",
+		"arrival_station": "Crasna",
+		"last_station": 0,
+		"line": "2B",
+		"arrival_time": "21:02:00",
+		"delay": 0
+	},
+	{
+		"number": "1665",
+		"arrival_station": "Vaslui",
+		"last_station": 0,
+		"line": "2B",
+		"arrival_time": "21:19:00",
+		"delay": 0
+	},
+	{
+		"number": "1665",
+		"arrival_station": "Barnova",
+		"last_station": 0,
+		"line": "2B",
+		"arrival_time": "22:03:00",
+		"delay": 0
+	},
+	{
+		"number": "1665",
+		"arrival_station": "Iasi",
+		"last_station": 1,
+		"line": "2B",
+		"arrival_time": "22:29:00",
+		"delay": 0
+	}
+]

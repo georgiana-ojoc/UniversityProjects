@@ -1,0 +1,81 @@
+~start-epoch:Rome~
+
+invincible-int int1 <~ 56 + 2 :P
+int x <~ 7 :P
+
+battle int func1(int x $ invincible-int y)
+~start-battle~
+  signum char1 <~ *c*
+  char1 <~ *a*
+  Nero ((2 > x) and (not(2 < 3) or 1++ = 2))
+  burn
+    ~start-burn~
+    ~end-burn~
+  save
+    ~start-save~
+    ~end-save~
+Orcus x
+~end-battle~ :P
+
+battle int func1(int var $ invincible-int const $ int x)
+~start-battle~
+int ex <~ 0
+Orcus -1 | 8 / #ana#
+~end-battle~ :P
+
+battle int ret1()
+~start-battle~
+Orcus 1
+~end-battle~
+
+battle int ret1(int x)
+~start-battle~
+Orcus -1
+~end-battle~
+
+battle int retarr(bunch-of-int arr)
+~start-battle~
+Orcus arr_0
+~end-battle~
+
+Roman class
+~start-Roman~
+bunch-of-int bi <~ []
+scriptum script<~ #exemplu#
+int varInt <~8
+battle int ret1()
+~start-battle~
+ scriptum varString1 <~ #a#
+ scriptum varString2 <~ #b#
+ scriptumCPY(varString1 $ varString2)
+ scriptumCAT(varString1 $ varString2)
+ Orcus 4
+~end-battle~
+~end-Roman~ :P
+
+Roman class stud {} :P
+
+~start-war~
+int varInt <~ 0
+varInt <~2
+bunch-of-int a <~ []
+eval(4 + x + a_0)
+centaur-answer b <~ non
+float f <~ 0
+signum varChar <~ *c*
+scriptum varString <~ #Caesar#
+centaur-answer varBool <~ etiam
+invincible-centaur-answer constBool <~ non
+conquer-between-varInt-and-10-lands
+~start-conquer~
+  retarr(stud.bi[])
+  scriptumCPY(stud.script $ varString)
+~end-conquer~
+x <~ stud.ret1()
+Roman class obj {}
+x <~ obj.varInt
+eval(x)
+eval(a_12 + x + int1) 
+~end-war~
+
+~end-epoch:Rome~

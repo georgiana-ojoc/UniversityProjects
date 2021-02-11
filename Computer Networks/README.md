@@ -1,5 +1,5 @@
 # Train Scheduling System
-Implemented a client-server application in C++ in Linux using a MySQL database in which the information is loaded from JSON files  
+Implemented an client-server application in C++ in Linux using a MySQL database in which the information is loaded from JSON files  
 Works like a shell with the following commands:  
  - register [username] [password]  
  - login [username] [password]  

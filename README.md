@@ -1,2 +1,2 @@
-# University-Projects
-This repository contains university projects from different subjects.
+# UniversityProjects
+University projects from different subjects

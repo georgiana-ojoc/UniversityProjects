@@ -1,7 +1,7 @@
 # UniversityProjects
 University projects from different subjects  
 Used programming languages:   
- - CN - C  
- - FLAC - Lex, Yacc  
- - IP - C  
- - PP - Python  
+ - Computer Networks - C  
+ - Formal Languages, Automata and Compilers - Lex, Yacc  
+ - Introduction to Programming - C  
+ - Programming in Python - Python  
